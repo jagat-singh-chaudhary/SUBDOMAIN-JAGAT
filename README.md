@@ -1,6 +1,3 @@
-Sure, here's the GitHub Markdown code for your README.md file:
-
-```markdown
 # SUBDOMAIN-JAGAT Chrome Extension
 
 ## Overview
