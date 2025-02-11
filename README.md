@@ -31,8 +31,5 @@ To get started with the SUBDOMAIN-JAGAT Chrome extension, you can refer to the s
 3. Click the "Enable" button to start enumeration.
 4. View, Save, copy, or Clear the results as needed.
 
-## Contributing
-Bug bounty hunters and security researchers are welcome to contribute to SUBDOMAIN-JAGAT. Feel free to submit issues, feature requests, or pull requests via GitHub.
-
 ## About the Author
-Jagat Singh is a Top 15 Researcher at NCIIPC - INDIA, specializing in Penetration Testing & Security Analysis. With expertise in cybersecurity and notable recognition, including CVE-2023-43187 [ CRITICAL 9.8 ], Jagat aims to make subdomain enumeration easier and more accessible for everyone. Connect with Jagat on [GitHub](https://github.com/jagat-singh-chaudhary) and [LinkedIn](https://www.linkedin.com/in/jagat-singh-b824701b8/) for updates and insights.
+I am Jagat Singh, the creator of the SUBDOMAIN-JAGAT Chrome extension. I am a Top 15 Researcher at NCIIPC - INDIA, specializing in Penetration Testing & Security Analysis. With expertise in cybersecurity and notable recognition, including CVE-2023-43187 [ CRITICAL 9.8 ], I aim to make subdomain enumeration easier and more accessible for everyone. Connect with me on [GitHub](https://github.com/jagat-singh-chaudhary) and [LinkedIn](https://www.linkedin.com/in/jagat-singh-b824701b8/) for updates and insights.
