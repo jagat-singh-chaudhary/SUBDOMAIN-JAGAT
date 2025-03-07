@@ -33,3 +33,9 @@ To get started with the SUBDOMAIN-JAGAT Chrome extension, you can refer to the s
 
 ## About the Author
 I am Jagat Singh, the creator of the SUBDOMAIN-JAGAT Chrome extension. I am a Top 15 Researcher at NCIIPC - INDIA, specializing in Penetration Testing & Security Analysis. With expertise in cybersecurity and notable recognition, including CVE-2023-43187 [ CRITICAL 9.8 ], I aim to make subdomain enumeration easier and more accessible for everyone. Connect with me on [GitHub](https://github.com/jagat-singh-chaudhary) and [LinkedIn](https://www.linkedin.com/in/jagat-singh-b824701b8/) for updates and insights.
+
+## ☕ Buy Me a Coffee
+
+If you find our work helpful and would like to support us, consider buying us a coffee. Your support keeps us motivated and helps us create more awesome content. ❤️
+
+☕ **Support Us Here:** [https://buymeacoffee.com/jagatsingh](https://buymeacoffee.com/jagatsingh)
